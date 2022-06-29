@@ -1,0 +1,1 @@
+web: sh setup.sh && streamit run house_rocket_dashboard.py
